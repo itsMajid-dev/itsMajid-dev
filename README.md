@@ -14,7 +14,7 @@ My passion for coding and the world of computers led me to pursue a degree in Co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsMajid-dev&show_icons=true&theme=radical)
 
 
-## 🎉GitHub Streaks:
+## 🔥GitHub Streaks:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=itsMajid-dev&theme=radical)
 
 

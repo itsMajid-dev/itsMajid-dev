@@ -18,3 +18,10 @@ My passion for coding and the world of computers led me to pursue a degree in Co
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=itsMajid-dev&theme=radical)
 
 
+
+
+
+
+[![portfolio](https://img.shields.io/badge/email-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsMajid.dev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmajid-dev)
+
